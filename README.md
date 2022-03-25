@@ -43,8 +43,7 @@ A continuación se presentará una explicación del funcionamiento de cada uno d
 
 Esta función genera un kernel de 3x3 con la función f(x)=x*y, dando como resultado:
 
-![kernel1](https://drive.google.com/uc?id=1jQ-IrkqksjKupg9b24Zv19byS8rZddh)
-
+![kernel1](https://drive.google.com/uc?id=1jQ-IrkqksjKupg9b24Zv19byS8rZddh_)
 
 Al hacer la convolución la imagen original se ve de la siguiente manera:
 
@@ -69,18 +68,19 @@ El kernel se genera con la función sin_func y esta  llena una matriz 3x3 con la
 
 ![kernel3](https://drive.google.com/uc?id=1vEBWWmvI360viUHPycuSQVq3YSpigblZ)
 
+
 Lo que procesa la imagen como se muestra a continuación:
 
 ![sin_func](https://drive.google.com/uc?id=1l8z3YdlL4oeJvy-7K0XwUvATOjeTOVch)
+
 
 ### Exponencial kernel
 
 Se realizó la implementación como se vió  en clase donde la imagen se transforma a borroso como se muestra en la imagen:
 
-![exp](https://drive.google.com/uc?id=1-ZNlXaafzUL08sh7kkfKjOmUwARBqrOe)
+![exp](https://drive.google.com/uc?id=1uhRqKk-OtYDOIgO0QPS8BCkSq37FTDiT)
 
-
-
+https://drive.google.com/file/d/1uhRqKk-OtYDOIgO0QPS8BCkSq37FTDiT/view?usp=sharing
 ### Gauss kernel
 
 Implementación usando la función que modela la campana de Gauss, tal como el exponencial kernel descrito anteriormente
