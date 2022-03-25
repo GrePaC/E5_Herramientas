@@ -43,7 +43,8 @@ A continuación se presentará una explicación del funcionamiento de cada uno d
 
 Esta función genera un kernel de 3x3 con la función f(x)=x*y, dando como resultado:
 
-! [alt text] (https://drive.google.com/file/d/1jQ-IrkqksjKupg9b24Zv19byS8rZddh_/view?usp=sharing)
+![kernel1](https://drive.google.com/uc?id=16HyU7OQKrWdz3fV4P0MjwZ7oxIcvIXOW)
+
 
 Al hacer la convolución la imagen original se ve de la siguiente manera:
 
@@ -71,4 +72,4 @@ Implementación usando la función que modela la campana de Gauss, tal como el e
 
 ### Mexican hat kernel
 
-En este kernel se está modelando con la función comúnmente identificada como "sombrero mexicano" o formalmente "ricker wavelet" que ayuda
+En este kernel se está modelando con la función comúnmente identificada como "sombrero mexicano" o formalmente "ricker wavelet" que ayuda a identificar los bordes más nítidos de la imagen, tal como se muestra a continuación.
