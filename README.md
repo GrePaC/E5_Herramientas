@@ -78,9 +78,9 @@ Lo que procesa la imagen como se muestra a continuación:
 
 Se realizó la implementación como se vió  en clase donde la imagen se transforma a borroso como se muestra en la imagen:
 
-![exp](https://drive.google.com/uc?id=1uhRqKk-OtYDOIgO0QPS8BCkSq37FTDiT)
+![exp](https://drive.google.com/uc?id=1-ZNlXaafzUL08sh7kkfKjOmUwARBqrOe)
 
-https://drive.google.com/file/d/1uhRqKk-OtYDOIgO0QPS8BCkSq37FTDiT/view?usp=sharing
+
 ### Gauss kernel
 
 Implementación usando la función que modela la campana de Gauss, tal como el exponencial kernel descrito anteriormente
